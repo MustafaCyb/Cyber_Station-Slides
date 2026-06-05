@@ -19,3 +19,11 @@ This lecture explains Dynamic Link Libraries (DLLs), their role in Windows, and 
 ## Lecture Goal
 
 The goal is to help students understand DLLs as normal Windows components first, then understand how attackers abuse the same loading and memory mechanisms during malware and injection scenarios.
+
+## Credits
+
+- Lecture authors: Mustafa Mohammad and Baraa Abdulrahman.
+- Slide design: Baraa Abdulrahman.
+- GitHub: [@baraa0abd](https://github.com/baraa0abd)
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-baraa0abd-181717?style=flat&logo=github)](https://github.com/baraa0abd)
